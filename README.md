@@ -18,7 +18,8 @@ README.md # Project documentation
 * **Category Performance:** High-margin product categories required lower discount percentages to achieve target sales velocity compared to low-margin items.
 📈 Power BI Dashboard Preview
 
-[Retail Optimization Dashboard](dashboard.png)
+[Retail Optimization Dashboard]<img width="934" height="496" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a22ad65d-5b2e-44cf-becc-c61465df3816" />
+
 🚀 How to Explore This Project
 1. **Explore Data Cleaning:** Check `data_cleaning.ipynb` to see the Python data transformation steps executed in Google Cloud.
 2. **Interact with Dashboard:** Download `retail-optimization-dashboard.pbix` and open it in Power BI Desktop to interact with the visual filters and reports.
